@@ -1,0 +1,201 @@
+customer_id,name,email,phone,city,country,signup_date,segment
+CUST-0001,Omar Al-Sayed,omar.al.sayed@example.com,+45-819-7327159,Madrid,Spain,2025-12-10,Enterprise
+CUST-0002,Mia Petrov,mia.petrov@example.com,+58-240-6373353,São Paulo,Brazil,2025-01-23,Retail
+CUST-0003,Fatima Nguyen,fatima.nguyen@example.com,+79-945-5380197,Madrid,Spain,2025-03-08,Enterprise
+CUST-0004,Laura Tanaka,laura.tanaka@example.com,+56-155-4552011,São Paulo,Brazil,2025-06-13,Retail
+CUST-0005,Luca Bennett,luca.bennett@example.com,+38-555-4763422,Lagos,Nigeria,2025-07-03,Enterprise
+CUST-0006,Marco Khan,marco.khan@example.com,+9-657-5746816,São Paulo,Brazil,2025-12-09,SMB
+CUST-0007,Yuki Bianchi,yuki.bianchi@example.com,+41-427-5771513,Toronto,Canada,2025-01-09,Startup
+CUST-0008,Laura Murphy,laura.murphy@example.com,+13-557-8310608,Lagos,Nigeria,2025-06-28,Startup
+CUST-0009,Paul Cohen,paul.cohen@example.com,+22-230-5629566,São Paulo,Brazil,2025-08-09,SMB
+CUST-0010,Elena Larsen,elena.larsen@example.com,+1-108-6073681,Dubai,UAE,2025-02-04,Enterprise
+CUST-0011,Sofia Rossi,sofia.rossi@example.com,+29-983-1084125,Berlin,Germany,2025-10-09,Enterprise
+CUST-0012,David Murphy,david.murphy@example.com,+22-903-1868990,Berlin,Germany,2025-08-20,Retail
+CUST-0013,Laura Al-Sayed,laura.al.sayed@example.com,+27-403-4537024,Paris,France,2026-01-29,Retail
+CUST-0014,Noah Nguyen,noah.nguyen@example.com,+28-622-3645377,London,UK,2025-12-07,Enterprise
+CUST-0015,Yuki Shah,yuki.shah@example.com,+66-961-4237651,Lagos,Nigeria,2025-06-08,Startup
+CUST-0016,Priya Okafor,priya.okafor@example.com,+29-606-2636588,Lagos,Nigeria,2025-07-31,Startup
+CUST-0017,Priya Diaz,priya.diaz@example.com,+20-322-6700463,São Paulo,Brazil,2025-11-17,Startup
+CUST-0018,Nina Okafor,nina.okafor@example.com,+51-844-6777100,Toronto,Canada,2026-02-16,SMB
+CUST-0019,Priya Bennett,priya.bennett@example.com,+92-270-9659711,Dubai,UAE,2025-08-09,Retail
+CUST-0020,Sam Diaz,sam.diaz@example.com,+75-114-5478650,London,UK,2026-02-10,SMB
+CUST-0021,Fatima Murphy,fatima.murphy@example.com,+11-741-5537765,Lagos,Nigeria,2025-08-25,SMB
+CUST-0022,Noah Khan,noah.khan@example.com,+26-339-3285957,London,UK,2026-02-10,Startup
+CUST-0023,Chen Kowalski,chen.kowalski@example.com,+44-274-6886860,Madrid,Spain,2025-08-27,Retail
+CUST-0024,Luca Okafor,luca.okafor@example.com,+50-948-8606631,Madrid,Spain,2025-10-01,Enterprise
+CUST-0025,Marco Larsen,marco.larsen@example.com,+46-451-8928576,São Paulo,Brazil,2025-07-07,Startup
+CUST-0026,Chen Khan,chen.khan@example.com,+78-347-7126017,Lagos,Nigeria,2025-12-15,Enterprise
+CUST-0027,Aisha Cohen,aisha.cohen@example.com,+11-574-8263002,São Paulo,Brazil,2025-10-02,Startup
+CUST-0028,David Kowalski,david.kowalski@example.com,+94-910-6121192,Austin,USA,2025-01-20,Enterprise
+CUST-0029,Paul Al-Sayed,paul.al.sayed@example.com,+62-392-7116695,Madrid,Spain,2026-01-26,Startup
+CUST-0030,Tomás Kowalski,tom.s.kowalski@example.com,+52-868-2082510,Lagos,Nigeria,2025-05-28,Retail
+CUST-0031,Laura Herrera,laura.herrera@example.com,+92-691-7509986,Berlin,Germany,2025-11-24,SMB
+CUST-0032,Priya Okafor,priya.okafor@example.com,+47-305-4717095,London,UK,2025-06-09,Enterprise
+CUST-0033,Anna Bennett,anna.bennett@example.com,+36-737-2602964,Lagos,Nigeria,2025-03-14,SMB
+CUST-0034,Yuki Haddad,yuki.haddad@example.com,+63-500-3210799,Shanghai,China,2025-02-08,Retail
+CUST-0035,Luca Bianchi,luca.bianchi@example.com,+79-459-2833272,São Paulo,Brazil,2025-09-26,SMB
+CUST-0036,Tomás Diaz,tom.s.diaz@example.com,+17-344-8825466,Shanghai,China,2025-09-07,Startup
+CUST-0037,Noah Haddad,noah.haddad@example.com,+71-242-8417293,Toronto,Canada,2025-10-07,SMB
+CUST-0038,Noah Rossi,noah.rossi@example.com,+34-974-7540951,Madrid,Spain,2025-05-27,Enterprise
+CUST-0039,David Rossi,david.rossi@example.com,+57-632-3581507,Dubai,UAE,2026-01-16,Enterprise
+CUST-0040,Sofia Cohen,sofia.cohen@example.com,+47-102-3417857,Toronto,Canada,2025-08-01,Retail
+CUST-0041,Sofia Okafor,sofia.okafor@example.com,+36-750-5486553,Berlin,Germany,2025-07-13,SMB
+CUST-0042,Noah Khan,noah.khan@example.com,+87-864-5139089,Dubai,UAE,2025-07-16,Retail
+CUST-0043,Chen Silva,chen.silva@example.com,+22-480-7881490,Shanghai,China,2025-04-02,Retail
+CUST-0044,Noah Nguyen,noah.nguyen@example.com,+4-632-8807978,Austin,USA,2025-12-28,Startup
+CUST-0045,Marco Bennett,marco.bennett@example.com,+81-681-6078689,Lagos,Nigeria,2025-08-16,Enterprise
+CUST-0046,Marco Nguyen,marco.nguyen@example.com,+69-776-5869298,Paris,France,2025-03-24,Enterprise
+CUST-0047,Omar Larsen,omar.larsen@example.com,+53-657-3360799,Berlin,Germany,2025-04-30,Enterprise
+CUST-0048,Laura Wei,laura.wei@example.com,+53-886-5241213,Lagos,Nigeria,2025-11-10,Enterprise
+CUST-0049,James Meyer,james.meyer@example.com,+10-815-8513916,Tokyo,Japan,2025-04-16,Retail
+CUST-0050,Noah Kowalski,noah.kowalski@example.com,+1-166-2403453,London,UK,2025-07-15,Startup
+CUST-0051,Sam Silva,sam.silva@example.com,+67-658-3704049,Mumbai,India,2025-08-03,Retail
+CUST-0052,Luca Silva,luca.silva@example.com,+47-792-8373975,Dubai,UAE,2025-01-24,Startup
+CUST-0053,Fatima Herrera,fatima.herrera@example.com,+92-324-8421012,Toronto,Canada,2025-01-03,Enterprise
+CUST-0054,Paul Diaz,paul.diaz@example.com,+5-573-5214825,London,UK,2025-10-19,Enterprise
+CUST-0055,Paul Meyer,paul.meyer@example.com,+64-248-8871144,Dubai,UAE,2025-10-01,Retail
+CUST-0056,Paul Okafor,paul.okafor@example.com,+95-376-5728474,Mumbai,India,2025-10-11,Startup
+CUST-0057,Aisha Cohen,aisha.cohen@example.com,+98-436-5026300,Dubai,UAE,2025-10-06,SMB
+CUST-0058,Anna Diaz,anna.diaz@example.com,+91-939-2085232,Tokyo,Japan,2025-09-17,Startup
+CUST-0059,Anna Kowalski,anna.kowalski@example.com,+97-727-3741507,Dubai,UAE,2025-12-29,SMB
+CUST-0060,Marco Khan,marco.khan@example.com,+84-124-7648391,Mumbai,India,2025-07-06,Startup
+CUST-0061,Sofia Okafor,sofia.okafor@example.com,+99-144-2458338,Mumbai,India,2025-05-15,Enterprise
+CUST-0062,Omar Khan,omar.khan@example.com,+71-184-2524634,Austin,USA,2025-05-23,Enterprise
+CUST-0063,Priya Kowalski,priya.kowalski@example.com,+89-721-1126222,London,UK,2025-06-30,Startup
+CUST-0064,Sofia Al-Sayed,sofia.al.sayed@example.com,+52-661-3386745,Lagos,Nigeria,2025-08-15,Retail
+CUST-0065,Yuki Herrera,yuki.herrera@example.com,+51-934-1820212,Lagos,Nigeria,2026-02-18,Startup
+CUST-0066,Elena Silva,elena.silva@example.com,+31-575-1972647,São Paulo,Brazil,2025-11-18,Startup
+CUST-0067,James Bianchi,james.bianchi@example.com,+55-259-4076768,Austin,USA,2025-05-09,SMB
+CUST-0068,Nina Wei,nina.wei@example.com,+85-101-7746190,Madrid,Spain,2025-04-04,SMB
+CUST-0069,Sam Petrov,sam.petrov@example.com,+18-522-6664250,Lagos,Nigeria,2025-01-31,Retail
+CUST-0070,Nina Haddad,nina.haddad@example.com,+35-435-1927166,Mumbai,India,2025-12-19,SMB
+CUST-0071,Marco Wei,marco.wei@example.com,+70-865-7866427,Toronto,Canada,2026-02-05,SMB
+CUST-0072,Omar Kowalski,omar.kowalski@example.com,+81-272-7330766,Paris,France,2025-09-04,Enterprise
+CUST-0073,Aisha Tanaka,aisha.tanaka@example.com,+12-620-8415945,Toronto,Canada,2025-05-25,Startup
+CUST-0074,Laura Okafor,laura.okafor@example.com,+79-562-5985788,Dubai,UAE,2025-11-25,Enterprise
+CUST-0075,Elena Murphy,elena.murphy@example.com,+21-827-6724863,São Paulo,Brazil,2025-12-20,Retail
+CUST-0076,James Khan,james.khan@example.com,+74-290-2795148,Lagos,Nigeria,2025-08-31,SMB
+CUST-0077,David Silva,david.silva@example.com,+81-760-5539837,London,UK,2026-01-13,Enterprise
+CUST-0078,Noah Shah,noah.shah@example.com,+22-246-7289574,São Paulo,Brazil,2025-05-21,Retail
+CUST-0079,Tomás Bennett,tom.s.bennett@example.com,+58-829-2156437,Toronto,Canada,2025-11-01,Startup
+CUST-0080,David Larsen,david.larsen@example.com,+47-781-1323242,Shanghai,China,2025-05-05,Retail
+CUST-0081,Luca Larsen,luca.larsen@example.com,+47-298-4359517,Mumbai,India,2025-06-08,Startup
+CUST-0082,Elena Silva,elena.silva@example.com,+65-845-8163269,Tokyo,Japan,2025-06-23,Enterprise
+CUST-0083,Omar Bianchi,omar.bianchi@example.com,+43-890-6661488,Tokyo,Japan,2026-01-08,SMB
+CUST-0084,Paul Petrov,paul.petrov@example.com,+65-292-9952610,Tokyo,Japan,2025-01-23,Startup
+CUST-0085,Anna Rossi,anna.rossi@example.com,+21-798-6471336,Lagos,Nigeria,2025-04-04,Retail
+CUST-0086,Sam Tanaka,sam.tanaka@example.com,+44-283-4385731,Paris,France,2025-11-19,Startup
+CUST-0087,Tomás Wei,tom.s.wei@example.com,+68-703-9012133,Mumbai,India,2026-02-01,Enterprise
+CUST-0088,Fatima Okafor,fatima.okafor@example.com,+4-166-7188385,Berlin,Germany,2025-06-11,Startup
+CUST-0089,Anna Cohen,anna.cohen@example.com,+44-176-5132421,Paris,France,2025-06-18,Enterprise
+CUST-0090,Noah Rossi,noah.rossi@example.com,+32-285-5460825,London,UK,2025-12-03,SMB
+CUST-0091,Luca Wei,luca.wei@example.com,+42-216-1587009,Dubai,UAE,2025-09-21,SMB
+CUST-0092,James Cohen,james.cohen@example.com,+14-673-9120783,Shanghai,China,2025-05-16,Retail
+CUST-0093,Yuki Haddad,yuki.haddad@example.com,+18-882-3312588,Paris,France,2025-02-05,Retail
+CUST-0094,Sofia Al-Sayed,sofia.al.sayed@example.com,+59-898-7855944,Toronto,Canada,2025-12-25,Retail
+CUST-0095,James Al-Sayed,james.al.sayed@example.com,+97-882-3405402,Madrid,Spain,2025-01-16,Startup
+CUST-0096,Elena Diaz,elena.diaz@example.com,+7-683-6195307,Tokyo,Japan,2025-08-08,Startup
+CUST-0097,Mia Murphy,mia.murphy@example.com,+16-651-8608213,Madrid,Spain,2025-08-12,Enterprise
+CUST-0098,Chen Rossi,chen.rossi@example.com,+3-961-7836857,Berlin,Germany,2025-07-11,Enterprise
+CUST-0099,Yuki Kowalski,yuki.kowalski@example.com,+63-834-4063097,Tokyo,Japan,2025-10-05,SMB
+CUST-0100,James Kowalski,james.kowalski@example.com,+34-184-3979598,Madrid,Spain,2025-11-17,Retail
+CUST-0101,Omar Nguyen,omar.nguyen@example.com,+4-594-6912432,Mumbai,India,2025-06-18,SMB
+CUST-0102,Noah Rossi,noah.rossi@example.com,+30-866-4019680,Madrid,Spain,2025-08-05,SMB
+CUST-0103,Elena Al-Sayed,elena.al.sayed@example.com,+79-181-9245110,Toronto,Canada,2025-01-09,SMB
+CUST-0104,Priya Kowalski,priya.kowalski@example.com,+38-159-5685861,London,UK,2025-04-25,Retail
+CUST-0105,Laura Diaz,laura.diaz@example.com,+79-108-6597396,Tokyo,Japan,2026-02-15,Retail
+CUST-0106,Priya Meyer,priya.meyer@example.com,+26-608-8950527,Berlin,Germany,2025-05-18,SMB
+CUST-0107,Mia Okafor,mia.okafor@example.com,+86-973-1956302,Mumbai,India,2025-06-22,Startup
+CUST-0108,Anna Nguyen,anna.nguyen@example.com,+51-727-6727050,Paris,France,2025-03-12,Startup
+CUST-0109,Luca Okafor,luca.okafor@example.com,+92-327-8084304,Toronto,Canada,2025-05-31,SMB
+CUST-0110,Marco Rossi,marco.rossi@example.com,+14-560-3217708,Mumbai,India,2025-04-15,Retail
+CUST-0111,James Haddad,james.haddad@example.com,+23-962-8445881,Dubai,UAE,2025-04-21,Retail
+CUST-0112,Chen Diaz,chen.diaz@example.com,+82-537-6337082,São Paulo,Brazil,2025-11-28,Enterprise
+CUST-0113,Tomás Al-Sayed,tom.s.al.sayed@example.com,+29-900-4912535,Madrid,Spain,2026-02-09,SMB
+CUST-0114,Luca Rossi,luca.rossi@example.com,+39-519-5081188,Mumbai,India,2025-06-11,Retail
+CUST-0115,Paul Larsen,paul.larsen@example.com,+65-912-9516540,Paris,France,2025-01-23,Retail
+CUST-0116,Aisha Rossi,aisha.rossi@example.com,+45-498-9230182,Paris,France,2025-07-01,Enterprise
+CUST-0117,Mia Larsen,mia.larsen@example.com,+37-204-5734744,Paris,France,2026-02-11,Enterprise
+CUST-0118,Yuki Herrera,yuki.herrera@example.com,+82-381-6290462,São Paulo,Brazil,2025-10-06,SMB
+CUST-0119,Marco Kowalski,marco.kowalski@example.com,+65-912-3092304,São Paulo,Brazil,2026-01-01,Startup
+CUST-0120,David Bianchi,david.bianchi@example.com,+94-283-5915520,Austin,USA,2025-03-31,Retail
+CUST-0121,Elena Silva,elena.silva@example.com,+21-148-8144966,Dubai,UAE,2025-02-14,SMB
+CUST-0122,Nina Shah,nina.shah@example.com,+7-538-2182298,Toronto,Canada,2025-01-26,Enterprise
+CUST-0123,Fatima Khan,fatima.khan@example.com,+46-324-4329477,Paris,France,2025-02-18,Enterprise
+CUST-0124,Tomás Al-Sayed,tom.s.al.sayed@example.com,+62-709-6417498,Dubai,UAE,2025-01-03,Retail
+CUST-0125,Marco Tanaka,marco.tanaka@example.com,+21-769-9474131,São Paulo,Brazil,2025-07-14,Enterprise
+CUST-0126,Sam Shah,sam.shah@example.com,+30-776-4835494,Dubai,UAE,2025-04-18,Enterprise
+CUST-0127,Noah Bianchi,noah.bianchi@example.com,+70-740-7307837,Lagos,Nigeria,2026-01-19,SMB
+CUST-0128,Fatima Bennett,fatima.bennett@example.com,+41-290-7229194,London,UK,2025-10-12,Retail
+CUST-0129,Priya Herrera,priya.herrera@example.com,+84-544-9428931,Tokyo,Japan,2025-03-19,Startup
+CUST-0130,Paul Shah,paul.shah@example.com,+90-424-8720039,Tokyo,Japan,2025-07-01,Startup
+CUST-0131,Mia Tanaka,mia.tanaka@example.com,+20-601-7624471,Shanghai,China,2025-06-28,Enterprise
+CUST-0132,Mia Petrov,mia.petrov@example.com,+73-229-2046059,Dubai,UAE,2025-05-17,Startup
+CUST-0133,Priya Wei,priya.wei@example.com,+32-467-6141284,Lagos,Nigeria,2025-04-22,Retail
+CUST-0134,Laura Tanaka,laura.tanaka@example.com,+29-240-8611506,Paris,France,2026-01-28,Retail
+CUST-0135,Paul Diaz,paul.diaz@example.com,+82-914-5333941,Dubai,UAE,2025-07-15,Retail
+CUST-0136,Noah Nguyen,noah.nguyen@example.com,+12-786-6079791,Tokyo,Japan,2025-01-09,Startup
+CUST-0137,Nina Okafor,nina.okafor@example.com,+5-689-6424983,Lagos,Nigeria,2025-08-31,SMB
+CUST-0138,Omar Al-Sayed,omar.al.sayed@example.com,+78-478-3454869,Shanghai,China,2025-02-08,SMB
+CUST-0139,Aisha Al-Sayed,aisha.al.sayed@example.com,+10-255-3810860,Berlin,Germany,2025-06-22,SMB
+CUST-0140,Paul Shah,paul.shah@example.com,+12-471-9487509,Shanghai,China,2025-02-18,Retail
+CUST-0141,Noah Murphy,noah.murphy@example.com,+91-131-3820980,Madrid,Spain,2025-08-25,SMB
+CUST-0142,Anna Herrera,anna.herrera@example.com,+24-833-2259581,Austin,USA,2025-11-23,Startup
+CUST-0143,Nina Murphy,nina.murphy@example.com,+8-978-3442292,Toronto,Canada,2025-08-01,Startup
+CUST-0144,Yuki Silva,yuki.silva@example.com,+85-857-1403583,Lagos,Nigeria,2025-01-11,Retail
+CUST-0145,Marco Rossi,marco.rossi@example.com,+90-602-2542766,London,UK,2025-03-25,SMB
+CUST-0146,Marco Herrera,marco.herrera@example.com,+52-653-2531208,Toronto,Canada,2025-01-08,Enterprise
+CUST-0147,Marco Bianchi,marco.bianchi@example.com,+95-390-5300308,London,UK,2025-06-19,Startup
+CUST-0148,Chen Kowalski,chen.kowalski@example.com,+75-655-2495129,Berlin,Germany,2025-02-10,Enterprise
+CUST-0149,Nina Meyer,nina.meyer@example.com,+34-193-2547210,Berlin,Germany,2025-10-05,Enterprise
+CUST-0150,Chen Cohen,chen.cohen@example.com,+11-736-4519797,Dubai,UAE,2025-01-26,Retail
+CUST-0151,Tomás Tanaka,tom.s.tanaka@example.com,+56-396-6888438,São Paulo,Brazil,2025-10-12,SMB
+CUST-0152,Fatima Murphy,fatima.murphy@example.com,+73-446-9167407,Tokyo,Japan,2025-02-07,Enterprise
+CUST-0153,Mia Silva,mia.silva@example.com,+83-208-7361523,Toronto,Canada,2025-12-30,Retail
+CUST-0154,Luca Shah,luca.shah@example.com,+28-305-8000686,Toronto,Canada,2025-08-17,SMB
+CUST-0155,Marco Al-Sayed,marco.al.sayed@example.com,+61-732-5412711,Lagos,Nigeria,2026-01-24,Enterprise
+CUST-0156,Nina Okafor,nina.okafor@example.com,+43-260-8992344,London,UK,2025-12-16,Enterprise
+CUST-0157,Mia Tanaka,mia.tanaka@example.com,+10-443-5610819,Lagos,Nigeria,2025-03-16,SMB
+CUST-0158,Luca Okafor,luca.okafor@example.com,+54-101-7874070,Berlin,Germany,2025-03-29,Enterprise
+CUST-0159,Omar Tanaka,omar.tanaka@example.com,+45-218-4164997,Berlin,Germany,2025-09-19,SMB
+CUST-0160,Chen Bennett,chen.bennett@example.com,+82-412-9960288,Austin,USA,2025-03-14,Startup
+CUST-0161,Nina Petrov,nina.petrov@example.com,+4-684-3692344,Lagos,Nigeria,2026-01-10,SMB
+CUST-0162,James Shah,james.shah@example.com,+44-203-6659567,Lagos,Nigeria,2025-01-31,Enterprise
+CUST-0163,Sofia Cohen,sofia.cohen@example.com,+27-955-4193038,Berlin,Germany,2025-09-06,Startup
+CUST-0164,Aisha Cohen,aisha.cohen@example.com,+92-807-3708882,Toronto,Canada,2025-01-11,Startup
+CUST-0165,Fatima Al-Sayed,fatima.al.sayed@example.com,+79-662-1133134,Toronto,Canada,2025-03-28,SMB
+CUST-0166,Priya Herrera,priya.herrera@example.com,+21-294-7621719,Paris,France,2025-06-24,Retail
+CUST-0167,James Al-Sayed,james.al.sayed@example.com,+99-992-5473337,São Paulo,Brazil,2025-07-09,Startup
+CUST-0168,David Nguyen,david.nguyen@example.com,+45-241-8459652,São Paulo,Brazil,2026-02-22,Enterprise
+CUST-0169,Yuki Haddad,yuki.haddad@example.com,+34-220-7143382,Austin,USA,2025-04-10,Startup
+CUST-0170,Anna Silva,anna.silva@example.com,+80-716-6443652,Tokyo,Japan,2025-07-13,Enterprise
+CUST-0171,Laura Petrov,laura.petrov@example.com,+78-334-4585598,São Paulo,Brazil,2025-09-06,Startup
+CUST-0172,Fatima Bennett,fatima.bennett@example.com,+12-616-3306885,Mumbai,India,2025-09-27,SMB
+CUST-0173,Fatima Tanaka,fatima.tanaka@example.com,+54-393-3223477,Austin,USA,2025-12-22,Startup
+CUST-0174,David Murphy,david.murphy@example.com,+74-497-3388343,Berlin,Germany,2025-01-23,Retail
+CUST-0175,Anna Nguyen,anna.nguyen@example.com,+42-940-9139711,Tokyo,Japan,2025-03-16,Enterprise
+CUST-0176,Fatima Nguyen,fatima.nguyen@example.com,+48-407-7365537,Lagos,Nigeria,2025-12-01,Retail
+CUST-0177,David Silva,david.silva@example.com,+35-684-3850845,London,UK,2025-05-09,Retail
+CUST-0178,Priya Al-Sayed,priya.al.sayed@example.com,+91-382-6003673,Shanghai,China,2025-01-02,SMB
+CUST-0179,Mia Bianchi,mia.bianchi@example.com,+5-627-5289042,São Paulo,Brazil,2025-04-26,Enterprise
+CUST-0180,Yuki Herrera,yuki.herrera@example.com,+7-926-7949802,London,UK,2025-12-13,Enterprise
+CUST-0181,Anna Haddad,anna.haddad@example.com,+16-982-9597559,Toronto,Canada,2026-01-24,Startup
+CUST-0182,Fatima Larsen,fatima.larsen@example.com,+9-809-1780827,Austin,USA,2025-08-17,Retail
+CUST-0183,Elena Rossi,elena.rossi@example.com,+25-586-5004266,Mumbai,India,2025-04-17,Retail
+CUST-0184,Aisha Murphy,aisha.murphy@example.com,+96-405-1334509,Toronto,Canada,2025-01-02,Enterprise
+CUST-0185,Chen Rossi,chen.rossi@example.com,+19-366-7922214,São Paulo,Brazil,2025-04-28,SMB
+CUST-0186,Anna Murphy,anna.murphy@example.com,+21-399-9860282,Shanghai,China,2025-10-20,Retail
+CUST-0187,Fatima Wei,fatima.wei@example.com,+93-666-7041605,Lagos,Nigeria,2025-09-24,Startup
+CUST-0188,Sam Rossi,sam.rossi@example.com,+85-707-4831227,Lagos,Nigeria,2025-01-07,Startup
+CUST-0189,Marco Rossi,marco.rossi@example.com,+12-148-6097095,Mumbai,India,2026-01-03,Startup
+CUST-0190,Aisha Okafor,aisha.okafor@example.com,+34-394-8409540,Shanghai,China,2026-01-18,Startup
+CUST-0191,David Silva,david.silva@example.com,+31-479-4240926,Toronto,Canada,2025-06-17,Retail
+CUST-0192,Tomás Meyer,tom.s.meyer@example.com,+96-747-6537028,Paris,France,2025-01-16,Enterprise
+CUST-0193,Yuki Kowalski,yuki.kowalski@example.com,+91-387-8948487,Madrid,Spain,2025-01-14,Enterprise
+CUST-0194,Fatima Kowalski,fatima.kowalski@example.com,+2-280-9303605,Dubai,UAE,2025-06-03,Retail
+CUST-0195,Luca Rossi,luca.rossi@example.com,+44-956-6861351,Dubai,UAE,2025-04-17,Startup
+CUST-0196,James Larsen,james.larsen@example.com,+11-164-5414431,Shanghai,China,2025-06-28,SMB
+CUST-0197,Paul Nguyen,paul.nguyen@example.com,+19-619-5063107,London,UK,2025-03-31,Startup
+CUST-0198,Mia Shah,mia.shah@example.com,+22-260-4303854,Madrid,Spain,2025-12-02,Enterprise
+CUST-0199,Mia Meyer,mia.meyer@example.com,+29-559-6027935,Madrid,Spain,2026-02-14,Retail
+CUST-0200,Marco Kowalski,marco.kowalski@example.com,+50-136-8950792,Tokyo,Japan,2025-12-10,Retail
